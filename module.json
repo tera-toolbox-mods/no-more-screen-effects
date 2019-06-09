@@ -1,0 +1,5 @@
+{
+    "servers": ["https://github.com/tera-toolbox-mods/no-more-screen-effects/master/"],
+    "name": "no-more-screen-effects",
+    "disableAutoUpdate": false
+}
